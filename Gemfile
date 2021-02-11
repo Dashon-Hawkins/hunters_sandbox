@@ -9,7 +9,7 @@ gem 'devise'
 gem 'puma'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.4'
+gem 'rails', '6.0.3.5'
 
 gem "paperclip", "~> 4.3"
 gem 'aws-sdk'
