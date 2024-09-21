@@ -6,7 +6,7 @@ gem 'pg'
 
 gem 'devise'
 
-gem 'puma'
+gem 'puma', '>= 5.6.9'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
